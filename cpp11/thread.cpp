@@ -1,3 +1,6 @@
+/*
+ * 三个进程ABC,依次输出自己的编号10次，输出顺序为ABCABCABC...
+ */
 #include <iostream>
 #include <thread>
 using namespace std;
